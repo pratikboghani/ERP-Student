@@ -1,0 +1,141 @@
+}.signup-page1 {
+    width: 99%;
+    margin: -4em 0em 0em 2em;
+} //1691
+
+.cbp-spmenu-push div#page-wrapper {
+		margin:0 0;
+		padding: 3em 1em 2em;
+} //6578
+
+.login-page,.signup-page {
+		width: 95%;
+} //6673
+
+
+.signup-page input[type="text"],.signup-page input[type="email"],.signup-page input[type="password"]{
+	outline:none;
+	border: 1px solid #D0D0D0;
+    background: none;
+    font-size: 15px;
+    padding: 14px 15px 14px 37px;
+	width:100%;
+    margin: 0em 0 1.5em 0;
+}
+.signup-page input[type="email"]{
+    background: url(../images/mail.png)no-repeat 8px 16px #fff;
+	background-size: 20px;
+}
+.signup-page input[type="text"] {
+    background: url(../images/user.png)no-repeat 8px 16px #fff;
+}
+.signup-page input[type="password"] {
+    background: url(../images/lock.png)no-repeat 8px 16px #fff;
+}
+.signup-page input[type="text"]:focus ,.signup-page input[type="email"]:focus,.signup-page input[type="password"]:focus,.login-page input[type="email"]:focus,.login-page input[type="password"]:focus{
+    border-color: #337ab7;
+}
+.signup-page h5,.signup-page h6{
+	margin: 0 0 1em;
+    color: #629aa9;
+    font-size: 1.1em;
+}
+.signup-page h6{
+	margin:1em 0 !important;
+}
+.signup-page p{
+    font-size: 1em;
+    color: #555;
+}
+.signup-page .radios {
+    margin-top: 1.5em;
+}
+.signup-page label.label_radio {
+    margin-right: 2em;
+    color: #7D7878;
+    font-size: 1em;
+}
+.signup-page {
+		width: 50%;
+}
+.login-page,.signup-page {
+		width: 90%;
+}
+	.login-page,.signup-page {
+		width: 75%;
+	}
+	.login-page, .signup-page {
+		width: 60%;
+	}
+		.login-page h3.title1, .signup-page h3.title1 {
+		padding: .9em 1em;
+		border-bottom: 8px solid #4b7884;
+		font-size: 1.4em;
+	}
+	.login-page input[type="email"], .login-page input[type="password"],.signup-page input[type="text"], .signup-page input[type="email"], .signup-page input[type="password"]{
+		font-size: .9em;
+		padding: 12px 15px 12px 37px;
+	}
+		.signup-page p {
+		font-size: 0.9em;
+		margin: 0 5em;
+		line-height: 1.8em;
+	}
+	.login-page, .signup-page {
+		width: 70%;
+	}
+		.login-page, .signup-page {
+		width: 95%;
+		margin: 2em auto 0;
+	}
+	.signup-page input[type="text"] {
+		background: url(../images/user.png)no-repeat 8px 10px #fff;
+	}
+	.login-page h2.title1, .signup-page h2.title1 {
+		padding: .8em 1em;
+		font-size: 1.4em;
+	}
+		.signup-page input[type="text"], .signup-page input[type="email"], .signup-page input[type="password"] {
+		font-size: .9em;
+		padding: 10px 15px 10px 37px;
+	}
+	.signup-page input[type="email"] {
+		background: url(../images/mail.png)no-repeat 8px 10px #fff;
+		background-size: 20px;
+	}
+	.signup-page input[type="password"] {
+		background: url(../images/lock.png)no-repeat 8px 10px #fff;
+	}
+	.signup-page p {
+		font-size: 0.8em;
+		margin: 0;
+	}
+
+
+
+
+
+	.cbp-spmenu-push div#page-wrapper1 {
+    margin: 0 0 0 13.5em;
+	transition:.5s all;
+	-webkit-transition:.5s all;
+	-moz-transition:.5s all;
+}
+.cbp-spmenu-push.cbp-spmenu-push-toright div#page-wrapper1 {
+    margin: 0;
+}
+.cbp-spmenu-push div#page-wrapper1 {
+		margin: 0 0 0 14.5em;
+	}
+.cbp-spmenu-push div#page-wrapper1 {
+		margin: 0 0 0 13em;
+	}
+.cbp-spmenu-push div#page-wrapper1 {
+		margin: 0;
+	}
+	.cbp-spmenu-push div#page-wrapper1 {
+		padding: 9em 1em 2em;
+	}
+	.cbp-spmenu-push div#page-wrapper1 {
+		padding: 8.2em 1em 1.5em;
+	}
